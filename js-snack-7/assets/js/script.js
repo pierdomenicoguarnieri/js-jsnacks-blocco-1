@@ -18,6 +18,7 @@ for(let i = 0; i < 1000; i++){
 //   message +=`
 //   2^${i} = ${number}<br>
 //   `
+//   i++;
 // }
 
 
