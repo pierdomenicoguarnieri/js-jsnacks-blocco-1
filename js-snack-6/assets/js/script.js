@@ -14,6 +14,17 @@ for(let i = 0; i < n; i++){
   `
 }
 
+// let i = 0;
+
+// while(i < n){
+//   const number = Math.pow(i, 3);
+
+//   message +=`
+//   ${i}^3 = ${number} <br>
+//   `
+//   i++;
+// }
+
 outputTitle.innerHTML =`
 Hai deciso di generare il cubo di ${n} numeri:
 `
