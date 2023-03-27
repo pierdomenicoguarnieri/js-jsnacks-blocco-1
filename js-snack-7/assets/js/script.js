@@ -11,6 +11,15 @@ for(let i = 0; i < 1000; i++){
   `
 }
 
+// let i = 0;
+
+// while(i < 1000){
+//   const number = Math.pow(2, i);
+//   message +=`
+//   2^${i} = ${number}<br>
+//   `
+// }
+
 
 outputTitle.innerHTML = "Sono state calcolate tutte le potenze cha vanno da 2^0 a 2^999 (1000 potenze)."
 
